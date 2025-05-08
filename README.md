@@ -1,75 +1,60 @@
-# Nuxt + Tailwindcss Starter
+## 🍀 Nuxt + Tailwind CSS v4 Starter
 
-Look at [Nuxt docs](https://nuxt.com/docs/getting-started/introduction) and [Tailwindcss](https://tailwindcss.com) to learn more.
+A starter template for building fast and responsive web applications.
 
-## Setup
+### ✨ Technologies
 
-Make sure to install the dependencies:
+![](https://skills.syvixor.com/api/icons?i=ts,nuxt,vue,tailwind)
+
+### 📋 Prerequisites
+
+Before you begin, ensure you have the following installed:
+- [Node.js](https://nodejs.org) (v18 or higher)
+- npm, yarn, pnpm, or bun
+
+### 🚀 Quick Start
+
+#### Clone the repository
 
 ```bash
-# npm
+git clone https://github.com/syvixor/nuxt-tailwindcss-starter.git
+```
+
+```bash
+cd nuxt-tailwindcss-starter
+```
+
+#### Install dependencies
+
+```bash
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
+# or
 yarn install
-
-# bun
+# or
+pnpm install
+# or
 bun install
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`
+#### Run Development Server
 
 ```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
+# or
 yarn dev
-
-# bun
-bun run dev
+# or
+pnpm dev
+# or
+bun dev
 ```
 
-## Production
+### 💡 Documentation
 
-Build the application for production:
+Check `Nuxt` & `Tailwind CSS` docs to learn more.
 
-```bash
-# npm
-npm run build
+- [Nuxt](https://nuxt.com)
+- [Tailwind CSS](https://tailwindcss.com)
 
-# pnpm
-pnpm run build
+### 📜 License
 
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+This project is available under the [MIT License](LICENSE).
